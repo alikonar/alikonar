@@ -8,6 +8,8 @@
 
 <img src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG26.png" width="40" length="40"></a>
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width:100%;">
+
 
 
 
