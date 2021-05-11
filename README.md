@@ -5,9 +5,12 @@
 ](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alikonar&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Social</h2>
+<p>
 <a href="https://www.linkedin.com/in/ali-konar/">
-
 <img src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG26.png" width="40" length="40"></a>
+  <a href="https://twitter.com/aliikonar">
+<img src="https://i.pinimg.com/originals/26/cb/a4/26cba4a440f340e70e99ba87ca76d416.png" width="40" length="40"></a>
+</p>
 
 
 <h2>Languages</h2>
