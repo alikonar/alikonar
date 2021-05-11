@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/ali-konar/">
 <img src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG26.png" width="40" length="40"></a>
   <a href="https://twitter.com/aliikonar">
-<img src="https://i.pinimg.com/originals/26/cb/a4/26cba4a440f340e70e99ba87ca76d416.png" width="40" length="40"></a>
+<img src="https://i.pinimg.com/originals/26/cb/a4/26cba4a440f340e70e99ba87ca76d416.png" width="60" length="60"></a>
 </p>
 
 
