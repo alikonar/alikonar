@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/ali-konar/">
 
-<img src="https://w7.pngwing.com/pngs/853/669/png-transparent-linkedin-computer-icons-logo-hamilton-advokat-resurs-ab-saab-automobile-miscellaneous-blue-angle.png" width="40" length="40"></a>
+<img src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG26.png" width="40" length="40"></a>
 
 
 
