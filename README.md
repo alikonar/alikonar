@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/ali-konar/">
 
-<img src="https://pngimg.com/uploads/linkedIn/small/linkedIn_PNG19.png"></a>
+<img src="https://pngimg.com/uploads/linkedIn/small/linkedIn_PNG19.png" width="40" length="40"></a>
 
 
 
